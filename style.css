@@ -1,0 +1,219 @@
+/* Color Palette
+    Light Blue: #9dd9f8
+    Brown: #633313
+    Peach: #fafaf7
+    Dark Peach: #efe7d6
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #fafaf7;
+    height: 100%;
+    width: 100%;
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    max-width: 2600px;
+    margin: 0 auto; 
+    padding: 0 20px; 
+}
+
+.item {
+    flex: 1; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+}
+
+a,
+.btn {
+    transition: all 300ms ease;
+    text-decoration: none;
+}
+
+#desktop-nav {
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #efe7d6; 
+    color: #633313; 
+    padding: 15px 0px;
+    border-bottom: 1px solid #633313;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    font-family: 'Arial';
+}
+
+.nav-links li {
+    margin: 0 15px; /* Adjusts spacing between nav items */
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 15px; /* Adds padding around links */
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #adadad; 
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', 'Verdana', sans-serif;
+    color: #633313;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none;
+    margin-left: 10px; /* Ensure margin-left is 0 */
+    flex-shrink: 0; /* Prevents the logo from shrinking */
+
+}
+
+
+#content {
+    display: flex;
+    align-items: flex-start; 
+    margin: 40px auto;
+    padding: 30px 30px;
+}
+
+.text-section {
+    flex: 2.1;
+    font-size: 35px;
+    font-weight:500;
+    color: #633313;
+    text-align: justify;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+/* CONTACT PAGE */
+
+#contact {
+    font-family: "Nanum Myeongjo", serif;
+    padding: 30px 30px;
+    background-color: #fafaf7;
+    border-top: 1px solid #633313;
+}
+
+.contact-container {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 25px;
+    padding-top:3%
+
+}
+
+.contact-container h2 {
+    font-size: 2rem;
+    margin-bottom: 55px;
+    color: #633313;
+}
+
+form {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 15px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+form button {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #633313;
+    background-color: #9dd9f8;
+    padding: 10px 20px;
+    border: 1px solid #633313;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #7fc0e5;
+    color: #fafaf7;
+    transition: all 300ms ease;
+}
+
+.social-buttons {
+    margin-top: 60px;
+}
+
+.social-buttons a {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fafaf7;
+    background-color: #633313;
+    padding: 10px 20px;
+    border: 1px solid #633313;
+    border-radius: 5px;
+}
+
+.social-buttons a:hover {
+    background-color: #efe7d6;
+    color: #633313;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #9dd9f8;
+    color: #00275b;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #633313;
+
+}
+
+.footer-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer-container p {
+    margin: 0;
+}

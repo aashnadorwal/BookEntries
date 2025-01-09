@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screen Section - Look Back Fondly</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mediaqueries.css">
+    <link rel="stylesheet" href="completed.css">
+
+</head>
+<body>
+    <nav id="desktop-nav">
+        <div class="container">
+            <div class="logo">
+                LOOK BACK FONDLY
+            </div>
+            <ul class="nav-links">
+                <li><a href="https://www.instagram.com/aashnadorwal/">ENTRIES BY AASHNA DORWAL</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search a book...">
+        <button onclick="searchBooks()">Search</button>
+    </div>
+
+
+    <section class="screen">
+
+        <!-- Blog Card -->
+        <a href="blog-post.html?post=martyr" class="card">
+            <img src="assets/martyr.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Literary Fiction</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
+                <p class="date">Notes Published - December 24, 2024</p>
+                <h2>Martyr! by Kaveh Akbar</h2>
+            </div>
+        </a> 
+
+        <!-- Blog Card -->
+        <a href="blog-post.html?post=ways-of-seeing" class="card">
+            <img src="assets/waysofseeing.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Art & Nonfiction Essays</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+                <p class="date">Notes Published - August 23, 2024</p>
+                <h2>Ways of Seeing by John Berger</h2>
+            </div>
+        </a> 
+
+        <!-- Blog Card -->
+        <a href="blog-post.html?post=notes-from-underground" class="card">
+            <img src="assets/notesfromunderground.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Philosophical Fiction</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
+                <p class="date">Notes Published - August 7, 2024</p>
+                <h2>Notes from Underground by Fyodor Dostoevsky</h2>
+            </div>
+        </a>
+
+        <!-- Blog Card -->
+        <a href="blog-post.html?post=my-body" class="card">
+            <img src="assets/mybody.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Memoir</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
+                <p class="date">Notes Published - July 25, 2024</p>
+                <h2>My Body by Emily Ratajkowski</h2>
+            </div>
+        </a>
+
+        <!-- Blog Card -->
+        <a href="blog-post.html?post=all-about-love" class="card">
+            <img src="assets/allaboutlove.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Nonfiction Essays</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9734;&#9734;</p>
+                <p class="date">Notes Published - July 22, 2024</p>
+                <h2>All About Love: New Visions by Bell Hooks</h2>
+            </div>
+        </a>
+
+        <!-- Blog Card -->
+        <a href="blog-post.html?post=letters-from-a-stoic" class="card">
+            <img src="assets/lettersfromastoic.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Philosophy</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+                <p class="date">Notes Published - June 28, 2024</p>
+                <h2>Letters from a Stoic by Seneca</h2>
+            </div>
+        </a>
+
+        <!-- Blog Card
+        <a href="blog-post.html?post=m-train" class="card">
+            <img src="assets/mtrain.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Memoir</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
+                <p class="date">Notes Published - August 7, 2024</p>
+                <h2>M Train: A Memoir by Patti Smith</h2>
+            </div>
+        </a>
+
+
+        <!-- Blog Card 
+        <a href="blog-post.html?post=nausea" class="card">
+            <img src="assets/nausea.jpeg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Philosophy</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+                <p class="date">Notes Published - 28 Jun 2024</p>
+                <h2>Nausea by Jean-Paul Sartre</h2>
+            </div>
+        </a>
+
+        <!-- Blog Card
+        <a href="blog-post.html?post=the-stranger" class="card">
+            <img src="assets/thestranger.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Philosophy</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+                <p class="date">Notes Published - 28 Jun 2024</p>
+                <h2>The Stranger by Albert Camus</h2>
+            </div>
+        </a>
+
+
+        <!-- Blog Card
+        <a href="blog-post.html?post=tuesdays-with-morrie" class="card">
+            <img src="assets/tuesdayswithmorrie.jpg" alt="illustration-article" class="preview_pic">
+            <div class="main">
+                <p class="tag"><b>Memoir</b></p>
+                <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+                <p class="date">Notes Published - 28 Jun 2024</p>
+                <h2>Tuesdays with Morrie by Mitch Albom</h2>
+            </div>
+        </a>
+
+        -->
+
+        <div class="end-button-container">
+            <a href="#top" class="end-button">More Entries Coming Soon!</a>
+        </div>
+    </section>
+    <section id="contact">
+      <div class="contact-container">
+          <h2>Share your thoughts or just say hi!</h2>
+          <form action="https://api.web3forms.com/submit" method="POST">
+              <input type="hidden" name="access_key" value="1c98efdb-2a8c-45a9-a308-0204d998397e">
+
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" required>
+      
+              <label for="email">Email:</label>
+              <input type="email" id="email" name="email" required>
+  
+              <label for="message">Message:</label>
+              <textarea id="message" name="message" rows="4" required></textarea>
+      
+              <button type="submit">Send Message</button>
+          </form>
+      
+          <div class="social-buttons">
+              <a href="https://www.linkedin.com/in/aashnadorwal" target="_blank" class="linkedin-button">LinkedIn</a>
+              <a href="https://www.instagram.com/aashnadorwal/" target="_blank" class="github-button">Instagram</a>
+          </div>
+      </div>
+  </section>
+
+
+    <footer>
+        <div class="footer-container">
+          <p>Happy Reading &copy; Aashna Dorwal 2024</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        function searchBooks() {
+            var input, filter, cards, cardContainer, title, i;
+            input = document.getElementById('searchInput');
+            filter = input.value.toUpperCase();
+            cardContainer = document.querySelector('.screen');
+            cards = cardContainer.getElementsByClassName('card');
+
+            for (i = 0; i < cards.length; i++) {
+                title = cards[i].querySelector("h2");
+                if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+                    cards[i].style.display = ""; // Shows matching card
+                } else {
+                    cards[i].style.display = "none"; // Hides non-matching card
+                }
+            }
+        }
+    </script>
+</body>
+</html>
