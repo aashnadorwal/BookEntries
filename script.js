@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function() {
           title: 'Madonna in a Fur Coat by Sabahattin Ali',
           category: 'Category: Literary Fiction',
           date: 'Published: January 10, 2025',
-          stars: 'Stars: ★★★★★',
+          stars: 'Stars: ★★★★☆',
           content: `
               <h4> Classic story and case of men yearning tragically, and  stubbornly, for one woman in their lifetime and never again. The writing really pulls you in, and before I knew it, I'd finished the whole thing in one sitting. Madonna in a Fur Coat feels so gentle in many ways, the characters are deeply expressive and experience emotions so intensely that you can't help but feel it all alongside them. Beautiful.</h4>
 
@@ -205,20 +205,41 @@ document.addEventListener('DOMContentLoaded', function() {
           `
 
       },
-      'nausea': {
-          title: 'Nausea by Jean-Paul Sartre',
-          category: 'Category: Philosophy',
-          date: 'Published: August 7, 2024',
-          stars: 'Stars: ★★★★★',
+      'a-breath-of-life': {
+          title: 'A Breath of Life by Clarice Lispector',
+          category: 'Category: Literary Fiction',
+          date: 'Published: March 1, 2025',
+          stars: 'Stars: ★★★★☆',
           content: `
-              <h4></h4>
+              <h4>"Angela doesn’t write, she moans." By pouring out longing, pain, and existence itself. A Breath of Life is a conversation between an Author and his creation, Angela Pralini, who exists only through his words yet takes on a life of her own. As the Author writes, he questions whether he is shaping Angela or if she is shaping him, blurring the boundary between creator and creation. It feels less like a novel and more like raw thoughts on desire, suffering, and what it means to be alive. Clarice Lispector was such an incredible writer, this book is mind blowingly intimate. This is also the last book Lispector ever wrote, published after her death from ovarian cancer. I enjoyed reading this book, and would love to read it again in a few years. </h4>
               <h3>MY NOTES:</h3>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
+              <p>Could I be betraying myself? Could I be altering the course of a river? I must trust that abundant river. Or maybe I'm damming a river? I try to open the flood-gates, I want to watch the water gushing out. I want every sentence of this book to be a climax.</p>
+              <p>I must begin by accepting myself and not feeling the punitive horror of every time I fall, for when I fall the human race inside me falls too. To accept myself fully? that is a violation of my very life. Every change, every new project is scary: my heart is scared. And that is why each word of mine has a heart where blood flows.</p>
+              <p>I've always wanted to find someday a person who would live for me because life is so full of useless things that I can only bear it through extreme muscular asthenia, I suffer from moral indolence in living.</p>
+              <p>Could my fatal darkness be the promise of an also-fatal light? It so happens that I fear the fatal light and already have a certain intimacy with the dark.</p>
+              <p>Do I love Angela, because she says what I don't have the courage to say because I am afraid of myself? or because I think speaking is useless? Because what you speak is lost like breath that leaves the mouth when you speak and that bit of breath is lost forever.</p>
+              <p>When I think, I ruin everything. That's why I avoid thinking: all I really do is go on going on. And without questions about why or whither. If I think, a thing doesn't turn up, I don't happen.</p>
+              <p>Angela has just made me suddenly feel something within and I felt happy. Extremely happy, I don't know why. Do I accept it? No, for some secret reason I feel a great burden of uneasiness and anxiety when I reach the snowy peak of a happiness-light. The too-purified air hurts my body.</p>
+              <p>When I was a person, and not yet this rigorous being filled with words, I was more misunderstood by me. But I accepted myself as a whole. But the word slowly kept demystifying me and forcing me not to lie. I can still sometimes lie to others. But as for me my innocence ended and I am dealing more with an obscure reality that I nearly, nearly grasp. It's a secret truth, sealed, and I sometimes get lost in its fleeting aspect. I am only worthwhile as a discovery.</p>
+              <p>I get along better with myself when I’m unhappy: a coming together takes place. When I’m happy, I feel like somebody else. Albeit another version of the same. Someone strangely joyful, whistling, slightly unhappy is more peaceful. I want so badly to be commonplace and a little vulgar and say: hope is the last to die.</p>
+              <p>I try to keep myself isolated from the agony of depending on others, and that agony that seems to them a game of life and death masks another reality, a truth so extraordinary that they would keel over in fright were they to face it, as in a scandal.</p>
+              <p>Why don’t people look at me when they speak? They always look at someone else. I resent it. But God looks me right in the pupils of my eyes. And I face him. He is my father-mother-mother-father. And I am they. I think I’ll see God very soon. It will be The Encounter. For I take risks.</p>
+              <p>She’s always in a situation of at least semi-crisis.</p>
+              <p>It’s so wonderful and comforting to meet someone at four. Four p.m. is the best time of day. Four p.m. gives you balance and a calm stability, a serene taste for living. At times almost a bit whizzing and “in tremolo.</p>
+              <p>To get things started, let me assure you that you only live, real life, when you learn that even the lie is true. I decline to offer proof. But if someone insists on the “whys,” I’ll answer: the lie is born in the person who creates it and it brings into existence new lies from new truths.One word is the lie of another.I demandingly want you to believe me. I want you to believe me even when I lie.</p>
+              <p>Why do I want to make a hero of myself? I in fact am anti-heroic. What torments me is that everything is “for the time being,” nothing is “always.” Life — from the moment you’re born — is guided, idealized by dreams. I plan nothing, I leap into the darkness and chew upon shadows, and in these shadows I sometimes see the luminous and pure sparkling of three inedible diamonds. So I rise to the surface with a diamond in each pupil of my eyes in order to pass through the opacity of the world and another between my half-closed lips so that when I speak my words will be crystalline, hard and dazzling.</p>
+              <p>I want the shining gravel in the dark brook. I want the sparkle of the stone beneath the rays of sun, I want death that frees me. I could manage to have pleasure if I abstained from thinking.</p>
+              <p>Reality doesn’t surprise me. But that’s not true: I suddenly feel such a hunger for the “thing to really happen” that I cry out and bite into reality with my lacerating teeth. And afterwards give a sigh over the captive whose flesh I ate. And again, for a long while, I do without real reality and find comfort in living from my imagination.</p>
+              <p>The only thing that interests me is whatever cannot be thought — whatever can be thought is too little for me.</p>
+              <p>Angela doesn’t write. She moans.</p>
+              <p>Instead of saying “my world,” I say audaciously: the world depends on me. Because if I don’t exist, the Universe ceases within me. Could it be that abstraction begins after death?</p>
+              <p>Living is a hobby for her. She thinks it has nothing to do with her and lives tossed to the side, without past or future; just today forever.</p>
+              <p>There is a total silence within me. I get scared. How to explain that this silence is what I call the Unknown. I’m afraid of It. Not because It could childishly punish me (punishment is something people do). The fear comes from what surpasses me. And that also is me. Because my greatness is great.</p>
+              <p>But I have to love myself the way I involuntarily am.</p>
+              <p>For I bathe entirely in that devouring darkness, I want to know the depth of my hatred. I want to know every feeling. Must a person have experienced this cursed power in order to be a complete person? I don’t know, but it’s demonic.</p>
+              <p>When I say I love you, I am loving me in you.I’m not relative I’m infinite that’s why in each being I reflect myself in each being I encounter myself.</p>
+              <p>I want to show myself the dirtiest and lowest part of me — and only then can I forgive myself. I want to be forgiven for being so full of sensuality that it is an animal cry inside me, a taste of the harsh voice of the wolf desiring its prey, me! I who aspire to the great disorder of vile desires and the darkness that possesses me in the apocalyptic orgasm of my existence. My existence is the victim of a fatality. That is: I am, oh poor me human and weak and needy and begging. I want your smile, I want your velvet caress, I want the body-to-body struggle, both so intimate, so gullible lost children.</p>
+              <p>The forgetting of things is my escape valve. I forget a lot out of necessity. I’m even trying and succeeding in forgetting me, me minutes before, I forget my future. I’m naked.</p>
           `
       },
       'the-stranger': {
