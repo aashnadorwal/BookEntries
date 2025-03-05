@@ -5,7 +5,7 @@
     Dark Peach: #efe7d6
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 
 /* BASE STYLE */
 
@@ -26,7 +26,7 @@ html, body {
     background-color: var(--base);
     height: 100%;
     width: 100%;
-    font-family: "Nanum Myeongjo", serif;
+    font-family: "Source Serif 4", serif;
     font-size: 16px;
     scroll-behavior: smooth;
 }
@@ -98,7 +98,7 @@ a {
 }
 
 .search-container input[type="text"] {
-    font-family: "Nanum Myeongjo", serif;
+    font-family: "Source Serif 4", serif;
     padding: 10px; 
     font-size: 16px; 
     border: 1px solid #ccc; 
@@ -108,7 +108,7 @@ a {
 }
 
 .search-container button {
-    font-family: "Nanum Myeongjo", serif;
+    font-family: "Source Serif 4", serif;
     padding: 10px 20px; 
     font-size: 16px;
     background-color: #9dd9f8; 
@@ -159,6 +159,7 @@ a {
 .card h2 {
     color: #633313;
     font-size: 22px;
+    font-weight: 400;
 }
 
 .preview_pic {
@@ -169,6 +170,7 @@ a {
 
 .main {
     gap: 12px;
+    font-weight: 400;
 }
 
 .tag {
@@ -178,6 +180,8 @@ a {
     padding: 6px 15px;
     border-radius: 5px;
     color: #633313;
+    font-family:system-ui;
+    font-size: 14px;
 }
 
 .date {
