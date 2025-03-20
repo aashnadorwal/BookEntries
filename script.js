@@ -242,25 +242,30 @@ document.addEventListener('DOMContentLoaded', function() {
               <p>The forgetting of things is my escape valve. I forget a lot out of necessity. I’m even trying and succeeding in forgetting me, me minutes before, I forget my future. I’m naked.</p>
           `
       },
-      'the-stranger': {
-          title: 'The Stranger by Albert Camus',
+      'the-summer-book': {
+          title: 'The Summer Book by Tove Jansson',
           category: 'Category: Literary Fiction',
-          date: 'Published: August 7, 2024',
+          date: 'Published: March 20, 2025',
           stars: 'Stars: ★★★☆☆',
           content: `
-              <h4></h4>
+              <h4>It’s a quiet book. Nothing really happens, and there isn’t much of a plot. I generally don’t gravitate toward books like these, but Jansson’s writing is subtle yet vivid. I was surprised to learn it was published in 1972, as it feels quite modern. Reading it in March made me look forward to the quietness of summer. I'm not sure why, but this book carries a sense of nostalgia for me.</h4>
+
+              <h4>It mostly follows Sophia, a six-year-old girl, and her Grandmother, who remains unnamed. Their companionship is tender and has a quiet understanding that feels deeply real. Sophia’s characterization is as natural as I would expect a child’s to be, curious and dramatic. Even the smallest moments feel significant. It’s a book that doesn’t demand much from the reader.</h4>
+
               <h3>MY NOTES:</h3>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
+              <p>Sophia picked some flowers and held them in her hand until they got warm and unpleasant; then she put them down on her grandmother and asked how God could keep track of all the people who prayed at the same time.</p>
+              <p>"It's funny about love," Sophia said. "The more you love someone, the less he likes you back." "That's very true," Grandmother observed. "And so what do you do?" "You go on loving," said Sophia threateningly, "You love harder and harder."</p>
+              <p>It is still summer, but the summer is no longer alive. It has come to a standstill; nothing withers, and fall is not ready to begin. There are no stars yet, just darkness.</p>
+              <p>The thing about God, she thought, is that He usually does help, but not until you've made an effort on your own.</p>
+              <p>Gathering is peculiar, because you see nothing but what you're looking for. If you're picking raspberries, you see only what's red, and if you're looking for bones you see only the white. No matter where you go, the only thing you see is bones.</p>
+              <p>She started thinking about all the euphemisms for death, all the anxious taboos that had always fascinated her. It was too bad you could never have an intelligent discussion on the subject. People were either too young or too old, or else they didn't have time.</p>
+              <p>Wise as she was, she realized that people can postpone their rebellious phases until they're eighty-five years old, and she decided to keep an eye on herself.</p>
+              <p>There is nothing sentimental about this world. Like the weather, this world asks only to be acknowledged. There is nothing comforting about it, and yet if you are afraid to see it in its own terms and look to it for comfort, for solace, you will be left worse off than you were before.</p>
           `
       },
-      'tuesdays-with-morrie': {
-          title: 'Tuesdays with Morrie by Mitch Albom',
-          category: 'Category: Memoir',
+      'an-apprenticeship': {
+          title: 'An Apprenticeship by Clarice Lispector',
+          category: 'Category: Literary Fiction',
           date: 'Published: August 7, 2024',
           stars: 'Stars: ★★★☆☆',
           content: `
