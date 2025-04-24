@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
           title: 'Ways of Seeing by John Berger',
           category: 'Category: Art & Nonfiction Essays',
           date: 'Published: August 23, 2024',
-          stars: 'Stars: ★★★★★',
+          stars: 'Stars: ★★★★☆',
           content: `
               <h4>This book really made me think about how I perceive art. It made me realize that the way I see paintings — and really, all images — is influenced by societal norms that I hadn’t fully recognized before. The book pushed me to think critically about how images are used, not just in art but in all forms of visual media, to convey messages and ideologies.</h4>
               <h4>One of my favorite quotes overall and from the book is, “To be desired is perhaps the closest anybody in this life can reach to feeling immortal.” This line struck me. It’s a reflection on how being seen by others can grant us a sense of transcending mortality, even if it is only for a fleeting moment, which I found simply beautiful. </h4>
@@ -263,20 +263,44 @@ document.addEventListener('DOMContentLoaded', function() {
               <p>There is nothing sentimental about this world. Like the weather, this world asks only to be acknowledged. There is nothing comforting about it, and yet if you are afraid to see it in its own terms and look to it for comfort, for solace, you will be left worse off than you were before.</p>
           `
       },
-      'an-apprenticeship': {
-          title: 'An Apprenticeship by Clarice Lispector',
-          category: 'Category: Literary Fiction',
-          date: 'Published: August 7, 2024',
-          stars: 'Stars: ★★★☆☆',
+      'the-bluest-eye': {
+          title: 'The Bluest Eye by Toni Morrison',
+          category: 'Category: African-American Fiction',
+          date: 'Published: April 24, 2025',
+          stars: 'Stars: ★★★★☆',
           content: `
-              <h4></h4>
+              <h4>I’m ashamed it has taken me this long to read Toni Morrison. This book blew me away. The Bluest Eye follows Pecola, a young Black girl who thinks that if she had blue eyes, everything in her life would be better and that she’d finally be safe, loved, and seen. What makes it hit so hard is how quietly the pain builds, through small moments, passing comments, and the way people carry their own damage.</h4>
+              <h4>Every character is layered, even when they’re doing awful things. It makes you sit with discomfort, but it never feels forced. Morrison just tells us the truth. Truth about colorism, racism, systemic oppression, generational trauma, and longing for whiteness warp identity.</h4>
               <h3>MY NOTES:</h3>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
-              <p></p>
+              <p>So when I think of autumn, I think of somebody with hands who does not want me to die.</p>
+              <p>Adults, older girls, shops, magazines, newspapers, window signs—all the world had agreed that a blue-eyed, yellow-haired, pink-skinned doll was what every girl child treasured. "Here," they said, "this is beautiful, and if you are on this day 'worthy' you may have it."</p>
+              <p>Had any adult with the power to fulfill my desires taken me seriously and asked me what I wanted, they would have known that I did not want to have anything to own, or to possess any object.</p>
+              <p>What made people look at them and say, "Awwwww," but not for me?</p>
+              <p>Misery colored by the greens and blues in my mother's voice took away all the grief out of the words and left me with a conviction that pain was not only endurable, it was sweet.</p>
+              <p>You looked at them and wondered why the were so ugly; you looked closely and could not find the source. Then you realized that it came from conviction, their conviction. It was as though some mysterious all-knowing master had given each one a cloak of ugliness to wear, and they had each accepted it without question. The mast had said, "You are ugly people." They had looked about themselves and saw nothing to contradict the statement; saw, in fact, support for it leaning at them from every billboard, every movie, every glance. "Yes," they had said. "You are right."</p>
+              <p>When he was still very young, Cholly had been surprised in some bushes by two white men while he was newly but earnestly engaged in eliciting sexual pleasure from a little country girl…For some reason Cholly had not hated the white men; he hated, despised, the girl.</p>
+              <p>As long as she looked the way she did, as long as she was ugly, she would have to stay with these people. Somehow she belonged to them. Long hours she sat looking in the mirror, trying to discover the secret of the ugliness, the ugliness that made her ignored or despised at school, by teachers and classmates alike.</p>
+              <p>It had occurred to Pecola some time ago that if her eyes, those eyes that held the pictures, and knew the sights—if those eyes of hers were different, that is to say, beautiful, she herself would be different.</p>
+              <p>Slowly, like Indian summer moving imperceptibly toward fall, he looks toward her. Somewhere between retina and object, between vision and view, his eyes draw back, hesitate, and hover. At some fixed point in time and space he senses that he need not waste the effort of a glance. He does not see her, because for him there is nothing to see. How can a fifty-two-year-old white immigrant storekeeper with the taste of potatoes and beer in his mouth, his mind honed on the doe-eyed Virgin Mary, his sensibilities blunted by a permanent awareness of loss, see a little black girl? Nothing in his life even suggested that the feat was possible, not to say desirable or necessary.</p>
+              <p>Anger is better. There is a sense of being in anger. A reality and presence. An awareness of worth. It is a lovely surging.</p>
+              <p>It was their contempt for their own blackness that gave the first insult its teeth. They seemed to have taken all of their smoothly cultivated ignorance, their exquisitely learned self-hatred, their elaborately designed hopelessness and sucked it all up into a fiery cone of scorn that had burned for ages in the hollows of their minds—cooled—and spilled over lips of outrage, consuming whatever was in its path. They danced a macabre ballet around the victim, whom, for their own sake, they were prepared to sacrifice to the flaming pit.</p>
+              <p>We were lesser. Nicer, brighter, but still lesser…what was the secret? What did we lack? Why was it important? And so what? Guileless and without vanity, we were still in love with ourselves then. We felt comfortable in our skins, enjoyed the news that our senses released to us, admired our dirt, cultivated our scars, and could not comprehend this unworthiness.</p>
+              <p>The Thing to fear was the Thing that made her beautiful, and not us.</p>
+              <p>But to find out the truth about how dreams die, one should never take the word of the dreamer.</p>
+              <p>During all her four years of going to school, she was enchanted by numbers and depressed by words.</p>
+              <p>In none of her fantasies was she ever aggressive; she was usually idling by the river bank, or gathering berries in a field when a someone appeared, with gentle and penetrating eyes, who—with no exchange of words—understood; and before whose glance her foot straightened and her eyes dropped. The someone had no face, no form, no voice, no odor. He was simply Presence, an all-embracing tenderness with strength and a promise of rest.</p>
+              <p>Northern colored folk was different too. No better than whites for meanness. They could make you feel just as no-count, 'cept I didn’t expect it from them. That was the lonesome time of my life.</p>
+              <p>They were amused by her because she did not straighten her hair.</p>
+              <p>The sad thing was that Pauline did not really care for clothes and makeup. She merely wanted other women to cast favorable glances her way.</p>
+              <p>She married a man with a slash in his face instead of a mouth. So how could she understand?</p>
+              <p>Along with the idea of romantic love, she was introduced to another—physical beauty. Probably the most destructive ideas in the history of human thought. Both originated in envy, thrived in insecurity, and ended in disillusion.</p>
+              <p>The old one was learning the young ones about babies. Showing them how to do. When he got to me he said now these here women you don’t have any trouble with. They deliver right away and with no pain. Just like horses... I hurt just like them white women.</p>
+              <p>Then they had grown. Edging into life from the back door. Becoming. Everybody in the world was in a position to give them orders. White women said, "Do this." White children said, "Give me that." White men said. "Come here." Black men said, "Lay down." The only people they need not take orders from were black children and each other. But they took all of that and re-created it in their own image. They ran the houses of white people, and knew it. When white men beat their men, they cleaned up the book and went home to receive abuse from the victim. They beat their children with one hand and stole for them with the other. The hangs that felled trees also cut umbilical cords; the hands that wrung the necks of chickens and butchered hogs also nudged African violets into bloom; the arms that loaded sheaves, bales, and sacks rocked babies into sleep. They patted biscuits into flaky ovals of innocence--and shrouded the dead. They plowed all day and came home to nestle like plums under the limbs of their men, The legs that straddled a mule's back were the same ones that straddled their men's hips. And the difference was all the difference there was.</p>
+              <p>Sullen, irritable, he cultivated his hatred of Darlene. Never did he once consider directing his hatred toward the hunters. Such an emotion would have destroyed him. They were big, white, armed men. He was small, black, helpless. His subconscious knew what his conscious mind did not guess—that hating them would have consumed him, burned him up like a piece of soft coal, leaving only flakes of ash and a question mark of smoke. He was, in time, to discover that hatred of white men—but not now. Not in impotence but later, when the hatred could find sweet expression. For now, he hated the one who had created the situation, the one who bore witness to his failure, his impotence.</p>
+              <p>We mistook violence for passion, indolence for leisure, and thought recklessness was freedom.</p>
+              <p>I thought about the baby that everyone wanted dead, and saw it very clearly. It was in a dark, wet place, its head covered with O's of wool, the black face holding, like nickels, two clean black eyes, the flared nose, kissing-thick lips, and the living, breathing silk of black skin. No synthetic yellow bangs suspended over marble-blue eyes, no pinched nose and bowline mouth. More strongly than my fondness for Pecola, I felt a need for someone to want the black baby to live - just to counteract the universal love of white baby dolls, Shirley Temples, and Maureen Peals.</p>
+              <p>We had defended ourselves since memory against everything and everybody, considered all speech a code to be broken by us, and all gestures subject to careful analysis; we had become headstrong, devious, and arrogant. Nobody paid us any attention, so we paid very good attention to ourselves. Our limitations were not known to us—not then.</p>
+              <p>Love is never any better than the lover. Wicked people love wickedly, violent people love violently, weak people love weakly, stupid people love stupidly, but the love of a free man is never safe. There is no gift for the beloved. The lover alone possesses his gift of love. The loved one is shorn, neutralized, frozen in the glare of the lover’s inward eye.</p>
           `
       },
   };
